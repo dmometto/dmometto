@@ -1,4 +1,4 @@
-## Hi guys! - @dmometto👋
+## What's up! @dmometto👋
 
 
 **About Me**
