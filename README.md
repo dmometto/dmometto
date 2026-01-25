@@ -5,6 +5,6 @@
 
 - 🌱 Python | C#
 - 📚 Graduating in Information Systems at Anhembi Morumbi
-- 👀 Open to work!
+- 💼 Intern at FS Fueling Sustainability!
 - 📫 How to reach me: denismometto06@gmail.com
 - 💡 Portuguese | English
