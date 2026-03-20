@@ -3,7 +3,7 @@
 
 **About Me**
 
-- 🌱 Python | C#
+- 🌱 Python
 - 📚 Graduating in Information Systems at Anhembi Morumbi
 - 💼 Intern at FS Fueling Sustainability!
 - 📫 How to reach me: denismometto06@gmail.com
